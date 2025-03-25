@@ -1,0 +1,61 @@
+{
+    "dados": [
+      { "dia": 1, "faturamento": 25000.00 },
+      { "dia": 2, "faturamento": 28000.00 },
+      { "dia": 3, "faturamento": 22000.00 },
+      { "dia": 4, "faturamento": 30000.00 },
+      { "dia": 5, "faturamento": 27000.00 },
+      { "dia": 6, "faturamento": 29000.00 },
+      { "dia": 7, "faturamento": 26000.00 },
+      { "dia": 8, "faturamento": 31000.00 },
+      { "dia": 9, "faturamento": 24000.00 },
+      { "dia": 10, "faturamento": 23000.00 },
+      { "dia": 11, "faturamento": 21000.00 },
+      { "dia": 12, "faturamento": 32000.00 },
+      { "dia": 13, "faturamento": 20000.00 },
+      { "dia": 14, "faturamento": 33000.00 },
+      { "dia": 15, "faturamento": 19000.00 },
+      { "dia": 16, "faturamento": 34000.00 },
+      { "dia": 17, "faturamento": 18000.00 },
+      { "dia": 18, "faturamento": 35000.00 },
+      { "dia": 19, "faturamento": 17000.00 },
+      { "dia": 20, "faturamento": 36000.00 },
+      { "dia": 21, "faturamento": 16000.00 },
+      { "dia": 22, "faturamento": 37000.00 },
+      { "dia": 23, "faturamento": 15000.00 },
+      { "dia": 24, "faturamento": 38000.00 },
+      { "dia": 25, "faturamento": 14000.00 },
+      { "dia": 26, "faturamento": 39000.00 },
+      { "dia": 27, "faturamento": 13000.00 },
+      { "dia": 28, "faturamento": 40000.00 },
+      { "dia": 29, "faturamento": 12000.00 },
+      { "dia": 30, "faturamento": 41000.00 }
+    ],
+    "resultados": {
+      "menor_faturamento": 0.00,
+      "maior_faturamento": 0.00,
+      "dias_acima_da_media": 0
+    },
+    "estados": {
+        "SP": {
+            "percentual": 0,
+            "faturamento": "R$67.836,43"
+        },
+        "RJ": {
+            "percentual": 0,
+            "faturamento": "R$36.678,66"
+        },
+        "MG": {
+            "percentual": 0,
+            "faturamento": "R$29.229,88"
+        },
+        "ES": {
+            "percentual": 0,
+            "faturamento": "R$27.165,48"
+        },
+        "Outros": {
+            "percentual": 0,
+            "faturamento": "R$19.849,53"
+        }
+    }
+  }
